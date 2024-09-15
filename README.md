@@ -6,8 +6,7 @@ This tool automates the creation of highly personalized cold emails for a servic
 
 # Use Case example
 
-Nike is actively searching for a Data Specialist Power BI, a process that typically involves considerable time and effort for recruitment, onboarding, and training. Atliq, a software development company specializing in providing dedicated engineering resources, sees an opportunity to assist Nike by offering a highly skilled engineer as an outsourced solution.
+DNA Growth is actively searching for a Data Specialist - Power BI, a position that requires 3+ years of experience and involves considerable effort for recruitment, onboarding, and training. Atliq, a software development company specializing in providing dedicated data specialists, sees an opportunity to assist DNA Growth by offering a highly skilled data expert as an outsourced solution.
 
-Joe, a business development executive at Atliq, uses this cold email generator to craft a personalized email for Nike. The tool tailors the email to highlight how Atliq's dedicated engineers can seamlessly integrate into Nike's development team, saving them time and money in the recruitment process. The email also includes relevant project examples and portfolio links, all pulled from a vector database based on the job requirements extracted from Nike’s careers page.
+Joe, a business development executive at Atliq, uses this cold email generator to craft a personalized email for DNA Growth. The tool tailors the email to highlight how Atliq's dedicated data specialists, with expertise in Databases, Data Warehousing, Data Models, Data Analytics, and Power BI, can seamlessly integrate into DNA Growth's team. The solution offers cost and time savings in the recruitment process. The email also includes relevant project examples and portfolio links, all sourced from a vector database based on the job requirements extracted from DNA Growth’s careers page.
 
-This approach ensures that Nike receives a targeted offer that directly addresses their immediate hiring needs, increasing the likelihood of a positive response.
